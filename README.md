@@ -1,0 +1,1 @@
+This Repository Contains Data Structure and Alogrithm Based Concepts and Questions along with important patterns that will help you in your DSA Journey.
